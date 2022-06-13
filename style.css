@@ -5,13 +5,13 @@ body{
 }
 .tabela-padrao td{
     background-color: #424250;
-    padding: 5px;
+    padding: 7px;
     color: #ffffff;
     font-size: 25px;
 }
 
 .tabela-padrao th{
-    padding: 5px;
+    padding: 7px;
     color: #ffffff;
     font-size: 25px;
 }
