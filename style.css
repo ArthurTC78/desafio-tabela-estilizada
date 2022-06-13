@@ -1,0 +1,27 @@
+body{
+    padding-left: 31em;
+
+
+}
+.tabela-padrao td{
+    background-color: #424250;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.tabela-padrao th{
+    padding: 5px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.cabecalho-tabela-moda{
+    background-color: #BB86FC;
+    font-size: 25px;
+}
+
+.cabecalho-tabela-casa{
+    background-color: #00C4B4;
+    font-size: 25px;
+}
